@@ -2,7 +2,7 @@
 
 # Projeto de Automação de Testes
 
-O objetivo é uma demosntração de automação com Selenium e Java.
+O objetivo é uma demonstração de automação com Selenium e Java.
 
 ## Descrição do Projeto
 
