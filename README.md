@@ -10,8 +10,6 @@ Este projeto utiliza Selenium WebDriver para automação de testes de aplicaçõ
 
 ## Pré-requisitos
 
-Antes de começar, certifique-se de ter as seguintes ferramentas instaladas:
-
 - [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) (versão 8 ou superior)
 - [Maven](https://maven.apache.org/download.cgi) (versão 3.6.3 ou superior)
 - [IDE](https://www.jetbrains.com/idea/) de sua escolha (ex: IntelliJ IDEA, Eclipse) (Foi Utilizado o Eclipse IDE)
